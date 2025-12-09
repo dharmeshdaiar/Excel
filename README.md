@@ -1,8 +1,15 @@
 # <ins>Excel</ins>
 
-# Introduction to Excel – data entry, analysis &amp; visualisation
+# Introduction to Excel
 
 As part of this project, I have explored the basic functions of Microsoft Excel.
+- Convert data into table
+- Filter
+- Sorting
+- SUM
+- AVERAGE
+- MAX
+- Conditional Formatting
 
 I have used the **retail_sales_dataset.xlsx** document to complete the following tasks:
  
