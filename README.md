@@ -22,13 +22,14 @@ I have used the **retail_sales_dataset.xlsx** document to complete the following
 4. Using the **‘AVERAGE’** function, show me the **average commission** in cell **‘P11’**
 ![](Excel_Task_4.png)
 5. Apply **filter** and **sorting** to show the best students in each subject
-
+![](Excel_Task_5.png)
 6. **Calculate** the **average** for all students and fill into **Column E**
-
+![](Excel_Task_6.png)
 7. Using the **=MAX** function, tell me what the students highest score was in **column F**
-
+![](Excel_Task_7.png)
 8. Apply **filter** and **sorting** to show the best student in this classroom by **average**
-
+![](Excel_Task_8.png)
 9. Apply **filter** and **sorting** to show the best student in this classroom by **highest score**
-
+![](Excel_Task_9.png)
 10. Use **conditional formatting** to clearly identify the highest and lowest average scores
+![](Excel_Task_10.png)
